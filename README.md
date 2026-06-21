@@ -28,3 +28,6 @@ What I Learned
 ---
 
 💡 This is a beginner frontend project and will be improved further with JavaScript.
+
+---
+jayshree
